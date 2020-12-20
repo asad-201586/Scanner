@@ -1,0 +1,14 @@
+<resources>
+
+    <dimen name="zero_space">0dp</dimen>
+
+    <dimen name="card_corner_radius">@dimen/_4sdp</dimen>
+    <dimen name="button_padding">@dimen/_9sdp</dimen>
+
+    <dimen name="vt_space">@dimen/_7sdp</dimen>
+    <dimen name="hz_space">@dimen/_13sdp</dimen>
+
+    <dimen name="vt_space_2x">@dimen/_14sdp</dimen>
+    <dimen name="hz_space_2x">@dimen/_23sdp</dimen>
+
+</resources>

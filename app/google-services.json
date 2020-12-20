@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141016146695",
+    "firebase_url": "https://i-database-cc24b.firebaseio.com",
+    "project_id": "i-database-cc24b",
+    "storage_bucket": "i-database-cc24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141016146695:android:be63cab2e24766865f1ba2",
+        "android_client_info": {
+          "package_name": "com.example.i_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141016146695-s0mrnfn2a4jqboeo3klbdue8fpc6qk7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEIp5xB2CWJW6W5Z9VAf_dP8lHwNnHv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141016146695-s0mrnfn2a4jqboeo3klbdue8fpc6qk7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

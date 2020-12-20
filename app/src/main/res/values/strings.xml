@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">I- Monitor</string>
+
+    <string name="sample_img_des">Sample</string>
+    <string name="name_hint">Name*</string>
+    <string name="required">*Required</string>
+    <string name="public_name_hint">Public Name</string>
+    <string name="mobile_number_hint">Mobile Number*</string>
+    <string name="email_hint">Email</string>
+    <string name="address_hint">Address</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="register">Register</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+
+    <string name="read_from_usb">Read from Usb</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="close_qr_code">Close QR Code</string>
+    <string name="connect_usb">Connect Usb and Press Read Button</string>
+    <string name="scan_qr_code_using_camera">Scan QR Code using Camera</string>
+    <string name="not_data_found">No Data Found</string>
+    <string name="submit">Submit</string>
+
+    <string name="data_upload_successful">Data Upload Successful</string>
+    <string name="try_again_to_submit">Try Again To Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="demo_text">Lorem ipsum dolor sit aetur adng eli.</string>
+
+</resources>
